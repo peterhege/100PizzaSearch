@@ -14,14 +14,14 @@ A telepítéssel elfogadod a [használat feltételeit](/LICENSE) és az [adatvé
 
 ### Firefox
 
-1. Telepítsd a [TamperMonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey) kiegészítőt.
+1. Telepítsd a [TamperMonkey](https://addons.mozilla.org/hu-HU/firefox/addon/tampermonkey) kiegészítőt.
 1. Most már telepítheted a 100% Pizza Search szkriptet. Ehhez [kattints ide](https://github.com/peterhege/100PizzaSearch/raw/master/search.user.js).
 1. A megjelenő oldalon kattints az **Install** gombra.
 1. Most már használható kereső a https://www.100szazalekpizza.hu/kategoria/ oldalakon.
 
 ### Chrome
 
-1. Telepítsd a [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) kiegészítőt.
+1. Telepítsd a [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=hu) kiegészítőt.
 1. Most már telepítheted a 100% Pizza Search szkriptet. Ehhez [kattints ide](https://github.com/peterhege/100PizzaSearch/raw/master/search.user.js).
 1. A megjelenő oldalon kattints az **Install** gombra.
 1. Most már használható kereső a https://www.100szazalekpizza.hu/kategoria/ oldalakon.
