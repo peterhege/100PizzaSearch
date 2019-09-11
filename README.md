@@ -4,8 +4,8 @@ A https://www.100szazalekpizza.hu/kategoria/ oldalakat kibővíti egy keresővel
 
 ## Aktuális verzió
 
-- Verzió: 0.1
-- Kiadás: 2019.09.11
+- Verzió: <b>0.1</b>
+- Kiadás: <b>2019.09.11</b>
 
 ## Telepítés
 
@@ -38,4 +38,4 @@ Ha a "Szűrő+" szövegre kattintunk megjelennek a feltétek. A zöld csúszkát
 
 ## Adatvédelmi nyilatkozat
 
-A szkript nem használ személyes adatokat. Csupán a https://www.100szazalekpizza.hu/kategoria/ oldalakon található termékek információit gyűjti be és használja fel a kereséshez.
+A szkript nem használ személyes adatokat. Csupán a https://www.100szazalekpizza.hu/kategoria/ oldalakon található termékek információit gyűjti be és használja fel a kereséshez. Adat nem kerül tárolásra.
