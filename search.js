@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  100% Pizza kereső felület
 // @include      https://www.100szazalekpizza.hu/*
-// @author       You
+// @author       Peter Hegedűs
 // @match        https://www.tampermonkey.net/index.php?version=4.9.5941&ext=fire&updated=true
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.4.1.min.js
