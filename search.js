@@ -11,6 +11,8 @@
 // ==/UserScript==
 
 (function($) {
+    "use strict";
+    
     let search = {
         init: function(){
             if(location.pathname.search(/kategoria/)==-1){
