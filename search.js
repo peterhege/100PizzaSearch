@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         100% Pizza Search
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  100% Pizza kereső felület
 // @include      https://www.100szazalekpizza.hu/*
 // @author       You
 // @match        https://www.tampermonkey.net/index.php?version=4.9.5941&ext=fire&updated=true
